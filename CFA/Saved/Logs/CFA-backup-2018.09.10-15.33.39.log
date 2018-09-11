@@ -1,0 +1,594 @@
+﻿Log file open, 09/10/18 14:26:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CFA
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.321994
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.099s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.10-20.26.06:469][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.10-20.26.06:469][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.10-20.26.06:487][  0]LogHAL: Display: Platform has ~ 32 GB [34297421824 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.10-20.26.06:487][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.10-20.26.06:487][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.10-20.26.06:491][  0]LogInit: Computer: eae-d-117
+[2018.09.10-20.26.06:491][  0]LogInit: User: u0929850
+[2018.09.10-20.26.06:491][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.10-20.26.06:491][  0]LogInit: High frequency timer resolution =3.320312 MHz
+[2018.09.10-20.26.06:491][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.09.10-20.26.06:491][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.10-20.26.06:491][  0]LogMemory: Process Physical Memory: 100.54 MB used, 100.54 MB peak
+[2018.09.10-20.26.06:491][  0]LogMemory: Process Virtual Memory: 95.19 MB used, 95.19 MB peak
+[2018.09.10-20.26.06:491][  0]LogMemory: Physical Memory: 7104.38 MB used,  25604.19 MB free, 32708.57 MB total
+[2018.09.10-20.26.06:491][  0]LogMemory: Virtual Memory: 4644.36 MB used,  25604.19 MB free, 134217728.00 MB total
+[2018.09.10-20.26.06:635][  0]LogInit: Using OS detected language (en-US).
+[2018.09.10-20.26.06:635][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.10-20.26.06:635][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.10-20.26.07:007][  0]LogStreaming: Display: Took  0.373s to InitEngineTextLocalization.
+[2018.09.10-20.26.07:007][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.10-20.26.07:075][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.10-20.26.07:075][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.10-20.26.08:604][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.10-20.26.08:604][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.10-20.26.08:648][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.09.10-20.26.08:648][  0]LogD3D11RHI:       8088/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.10-20.26.08:650][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.10-20.26.08:650][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.10-20.26.08:650][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.10-20.26.08:655][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.10-20.26.08:655][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.10-20.26.08:655][  0]LogWindows: EnumDisplayDevices:
+[2018.09.10-20.26.08:656][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.09.10-20.26.08:656][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.09.10-20.26.08:656][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.10-20.26.08:656][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.10-20.26.08:656][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.10-20.26.08:656][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.09.10-20.26.08:656][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2018.09.10-20.26.08:656][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2018.09.10-20.26.08:656][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.09.10-20.26.08:687][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.10-20.26.08:715][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.10-20.26.08:807][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Intermediate/Shaders/WorkingDirectory/7656/).
+[2018.09.10-20.26.08:807][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u0929850/AppData/Local/Temp/UnrealShaderWorkingDir/E9E82ADF416983DABDCCE3B518BD7B99/'.
+[2018.09.10-20.26.09:286][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.10-20.26.09:307][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.10-20.26.09:330][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.10-20.26.09:351][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.10-20.26.09:376][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.10-20.26.09:401][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.10-20.26.09:422][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.10-20.26.09:444][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.10-20.26.09:459][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:544][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-20.26.09:555][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.10-20.26.09:645][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.10-20.26.09:645][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.10-20.26.09:675][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.10-20.26.09:675][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.10-20.26.09:696][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.10-20.26.09:716][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.10-20.26.09:736][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.10-20.26.09:764][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.10-20.26.09:782][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.10-20.26.09:782][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.10-20.26.10:044][  0]LogXGEController: Cleaning working directory: C:/Users/u0929850/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.10-20.26.10:044][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.10-20.26.10:045][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.10-20.26.10:045][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.10-20.26.11:536][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.10-20.26.11:590][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/u0929850/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.10-20.26.11:590][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u0929850/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.10-20.26.11:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.10-20.26.11:590][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.10-20.26.11:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.10-20.26.11:590][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.10-20.26.11:606][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.10-20.26.11:618][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u0929850/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.10-20.26.11:618][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.10-20.26.11:618][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.10-20.26.11:634][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.10-20.26.11:636][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.10-20.26.11:646][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.10-20.26.11:807][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2018.09.10-20.26.12:092][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.10-20.26.12:384][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.10-20.26.12:411][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.10-20.26.12:411][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.10-20.26.12:411][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.10-20.26.12:411][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.10-20.26.12:445][  0]LogNetVersion: CFA 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2740977465)
+[2018.09.10-20.26.13:238][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.096492 seconds
+[2018.09.10-20.26.13:244][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.10-20.26.13:244][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.10-20.26.13:244][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.10-20.26.15:600][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.10-20.26.15:625][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.10-20.26.15:986][  0]SourceControl: Source control is disabled
+[2018.09.10-20.26.15:986][  0]SourceControl: Source control is disabled
+[2018.09.10-20.26.16:005][  0]SourceControl: Source control is disabled
+[2018.09.10-20.26.16:020][  0]SourceControl: Source control is disabled
+[2018.09.10-20.26.16:582][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.10-20.26.16:713][  0]LogOcInput: OculusInput pre-init called
+[2018.09.10-20.26.16:822][  0]LogEngine: Initializing Engine...
+[2018.09.10-20.26.16:822][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.10-20.26.16:824][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.10-20.26.16:824][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.10-20.26.16:824][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.10-20.26.16:824][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.10-20.26.17:005][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.10-20.26.17:031][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.10-20.26.17:075][  0]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-20.26.17:098][  0]LogInit: FAudioDevice initialized.
+[2018.09.10-20.26.17:098][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.10-20.26.17:213][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/u0929850/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.10-20.26.17:220][  0]LogInit: Texture streaming: Enabled
+[2018.09.10-20.26.17:274][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.10-20.26.17:298][  0]LogInit: Transaction tracking system initialized
+[2018.09.10-20.26.17:376][  0]BlueprintLog: New page: Editor Load
+[2018.09.10-20.26.17:690][  0]LocalizationService: Localization service is disabled
+[2018.09.10-20.26.18:091][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.10-20.26.18:091][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.10-20.26.18:091][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.10-20.26.18:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.10-20.26.18:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.10-20.26.18:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.10-20.26.18:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.10-20.26.18:137][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/' took 0.02s
+[2018.09.10-20.26.18:496][  0]SourceControl: Source control is disabled
+[2018.09.10-20.26.18:496][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.10-20.26.18:499][  0]LightingResults: New page: Lighting Build
+[2018.09.10-20.26.18:502][  0]MapCheck: New page: Map Check
+[2018.09.10-20.26.18:502][  0]LightingResults: New page: Lighting Build
+[2018.09.10-20.26.18:797][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.09.10-20.26.18:798][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2018.09.10-20.26.18:798][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2018.09.10-20.26.18:812][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.09.10-20.26.18:812][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2018.09.10-20.26.18:812][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2018.09.10-20.26.18:813][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.09.10-20.26.18:813][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.09.10-20.26.18:813][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.09.10-20.26.18:814][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.09.10-20.26.18:826][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.09.10-20.26.18:826][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2018.09.10-20.26.18:826][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.09.10-20.26.18:826][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2018.09.10-20.26.19:008][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.10-20.26.19:017][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.10-20.26.19:036][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.10-20.26.19:092][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.39ms to complete.
+[2018.09.10-20.26.19:092][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.596
+[2018.09.10-20.26.19:203][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-20.26.19:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-20.26.19:217][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-20.26.19:224][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-20.26.19:243][  0]LogCollectionManager: Loaded 0 collections in 0.001609 seconds
+[2018.09.10-20.26.19:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/Collections/' took 0.01s
+[2018.09.10-20.26.19:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Developers/u0929850/Collections/' took 0.01s
+[2018.09.10-20.26.19:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Collections/' took 0.01s
+[2018.09.10-20.26.19:286][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.10-20.26.19:294][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2572 classes and 603 folders.
+[2018.09.10-20.26.19:300][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.10-20.26.19:566][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.10-20.26.19:586][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.10-20.26.19:606][  0]LogSlate: Took 0.004806 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.10-20.26.19:611][  0]LogSlate: Took 0.003230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.10-20.26.19:620][  0]LogSlate: Took 0.003370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.10-20.26.19:711][  0]LogRenderer: Reallocating scene render targets to support 764x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.10-20.26.19:866][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.10-20.26.19:866][  0]LogLoad: (Engine Initialization) Total time: 16.17 seconds
+[2018.09.10-20.26.19:866][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.10-20.26.19:909][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.10-20.26.19:918][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-20.26.21:346][159]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-20.26.21:350][159]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-20.26.22:309][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-20.26.22:395][282]LogSlate: Took 0.003141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.10-20.26.22:595][306]LogAssetRegistry: Asset discovery search completed in 10.8092 seconds
+[2018.09.10-20.26.22:597][306]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.10-20.26.22:597][306]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.09.10-20.26.24:670][552]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 128X128)
+[2018.09.10-20.26.25:106][552]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 128X128)
+[2018.09.10-20.26.25:107][552]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_186 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_191 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 128X128)
+[2018.09.10-20.26.25:108][552]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 128X128)
+[2018.09.10-20.26.25:109][552]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 128X128)
+[2018.09.10-20.26.25:109][552]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 128X128)
+[2018.09.10-20.26.25:109][552]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 128X128)
+[2018.09.10-20.26.25:109][552]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 128X128)
+[2018.09.10-20.26.25:109][552]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 128X128)
+[2018.09.10-20.26.25:109][552]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 128X128)
+[2018.09.10-20.26.25:109][552]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 128X128)
+[2018.09.10-20.26.25:109][552]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 128X128)
+[2018.09.10-20.26.25:109][552]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 128X128)
+[2018.09.10-20.26.25:109][552]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2018.09.10-20.26.25:109][552]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 128X128)
+[2018.09.10-20.26.25:606][552]LogStaticMesh: Building static mesh FloorPanel...
+[2018.09.10-20.26.25:612][552]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/FloorPanel.FloorPanel
+[2018.09.10-20.26.25:615][552]LogStaticMesh: Building static mesh FloorTileSmall...
+[2018.09.10-20.26.25:617][552]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Models/FloorTileSmall.FloorTileSmall
+[2018.09.10-20.26.25:849][552]LogAIModule: Creating AISystem for world ArtTestLevelVersion2
+[2018.09.10-20.26.25:902][552]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/ArtTestLevelVersion2.ArtTestLevelVersion2
+[2018.09.10-20.26.25:930][552]Cmd: MAP LOAD FILE="../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Maps/ArtTestLevelVersion2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.10-20.26.25:930][552]LightingResults: New page: Lighting Build
+[2018.09.10-20.26.25:931][552]LoadErrors: New page: Loading map: ArtTestLevelVersion2.umap
+[2018.09.10-20.26.25:932][552]MapCheck: New page: Map Check
+[2018.09.10-20.26.25:932][552]LightingResults: New page: Lighting Build
+[2018.09.10-20.26.33:459][552]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.10-20.26.33:619][552]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.10-20.26.33:690][552]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.486ms to complete.
+[2018.09.10-20.26.33:694][552]LogFileHelpers: Loading map 'ArtTestLevelVersion2' took 7.765
+[2018.09.10-20.26.33:720][552]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/' took 13.83s
+[2018.09.10-20.26.52:204][486]LogStaticMesh: Building static mesh Building_WallCorner...
+[2018.09.10-20.26.52:220][486]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Models/Building_WallCorner.Building_WallCorner
+[2018.09.10-20.26.52:226][486]LogStaticMesh: Building static mesh Building_WallDoorHole...
+[2018.09.10-20.26.52:240][486]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/Building_WallDoorHole.Building_WallDoorHole
+[2018.09.10-20.26.52:246][486]LogStaticMesh: Building static mesh Building_WallSection...
+[2018.09.10-20.26.52:258][486]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/Building_WallSection.Building_WallSection
+[2018.09.10-20.26.53:128][486]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.09.10-20.26.53:128][486]LogSlate: Took 0.003804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.10-20.27.02:402][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicWallLong68)
+[2018.09.10-20.27.03:676][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-20.27.07:996][565]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/Building_WallSectionA391643F4232DDD829350DB27046B4D4.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallSection.uasset'
+[2018.09.10-20.27.13:526][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-20.27.33:215][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner16)
+[2018.09.10-20.27.34:893][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-20.32.22:054][448]AssetReimport: New page: Outstanding source content changes 8:32:22 AM
+[2018.09.10-20.32.22:058][448]LogEditorFactories: Performing atomic reimport of [C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallDoorHole.fbx]
+[2018.09.10-20.32.22:065][448]LogFbx: Loading FBX Scene from C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallDoorHole.fbx
+[2018.09.10-20.32.22:070][448]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.10-20.32.22:081][448]LogStaticMesh: Building static mesh Building_WallDoorHole...
+[2018.09.10-20.32.22:083][448]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Models/Building_WallDoorHole.Building_WallDoorHole
+[2018.09.10-20.32.22:089][448]LogEditorFactories: -- imported successfully
+[2018.09.10-20.32.22:193][448]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/Building_WallDoorHoleF36511B547A2E03D7220BB92D9AC8B5C.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallDoorHole.uasset'
+[2018.09.10-20.32.25:421][458]AssetReimport: Reimported asset Building_WallDoorHole from C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallDoorHole.fbx.
+[2018.09.10-20.32.32:130][478]AssetReimport: New page: Outstanding source content changes 8:32:32 AM
+[2018.09.10-20.32.32:131][478]LogEditorFactories: Performing atomic reimport of [C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallSection.fbx]
+[2018.09.10-20.32.32:138][478]LogFbx: Loading FBX Scene from C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallSection.fbx
+[2018.09.10-20.32.32:143][478]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.10-20.32.32:146][478]LogStaticMesh: Building static mesh Building_WallSection...
+[2018.09.10-20.32.32:147][478]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Models/Building_WallSection.Building_WallSection
+[2018.09.10-20.32.32:152][478]LogEditorFactories: -- imported successfully
+[2018.09.10-20.32.32:255][478]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/Building_WallSectionD5BF416343ED786C2376CAB2692F0365.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallSection.uasset'
+[2018.09.10-20.32.35:489][488]AssetReimport: Reimported asset Building_WallSection from C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallSection.fbx.
+[2018.09.10-20.32.39:510][500]AssetReimport: New page: Outstanding source content changes 8:32:39 AM
+[2018.09.10-20.32.39:513][500]LogStaticMesh: Building static mesh Building_WallWindowHole...
+[2018.09.10-20.32.39:517][500]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Models/Building_WallWindowHole.Building_WallWindowHole
+[2018.09.10-20.32.39:519][500]LogEditorFactories: Performing atomic reimport of [C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallWindowHole.fbx]
+[2018.09.10-20.32.39:525][500]LogFbx: Loading FBX Scene from C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallWindowHole.fbx
+[2018.09.10-20.32.39:530][500]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.10-20.32.39:541][500]LogStaticMesh: Building static mesh Building_WallWindowHole...
+[2018.09.10-20.32.39:546][500]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Models/Building_WallWindowHole.Building_WallWindowHole
+[2018.09.10-20.32.39:551][500]LogEditorFactories: -- imported successfully
+[2018.09.10-20.32.39:624][500]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/Building_WallWindowHole06CE17F84EEB4AD343E8B2A5129DDDD0.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallWindowHole.uasset'
+[2018.09.10-20.32.42:868][510]AssetReimport: Reimported asset Building_WallWindowHole from C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallWindowHole.fbx.
+[2018.09.10-20.32.44:882][516]AssetReimport: New page: Outstanding source content changes 8:32:44 AM
+[2018.09.10-20.32.44:883][516]LogEditorFactories: Performing atomic reimport of [C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallCorner.fbx]
+[2018.09.10-20.32.44:890][516]LogFbx: Loading FBX Scene from C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallCorner.fbx
+[2018.09.10-20.32.44:895][516]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.10-20.32.44:898][516]LogStaticMesh: Building static mesh Building_WallCorner...
+[2018.09.10-20.32.44:900][516]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Models/Building_WallCorner.Building_WallCorner
+[2018.09.10-20.32.44:904][516]LogEditorFactories: -- imported successfully
+[2018.09.10-20.32.48:235][526]AssetReimport: Reimported asset Building_WallCorner from C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallCorner.fbx.
+[2018.09.10-20.32.48:769][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-20.32.50:777][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-20.32.58:615][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-20.33.01:121][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-20.33.02:528][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-20.33.07:882][ 68]LogSlate: Window 'Building_WallSection' being destroyed
+[2018.09.10-20.33.07:885][ 68]LogSlate: Window 'Building_WallSection' being destroyed
+[2018.09.10-20.33.10:491][324]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/Building_WallCorner8B872A2B4B044EF0011F88994F992F23.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallCorner.uasset'
+[2018.09.10-20.33.10:523][324]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/Building_WallDoorHole433AC08F49C292292CCE24A609EB9B41.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallDoorHole.uasset'
+[2018.09.10-20.33.12:383][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-20.33.20:740][352]LogActorFactory: Actor Factory created Building_WallCorner
+[2018.09.10-20.33.21:782][417]LogActorFactory: Actor Factory created Building_WallCorner
+[2018.09.10-20.33.22:898][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-20.33.22:994][534]LogActorFactory: Actor Factory created Building_WallDoorHole
+[2018.09.10-20.33.23:765][595]LogActorFactory: Actor Factory created Building_WallDoorHole
+[2018.09.10-20.33.26:893][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-20.33.27:001][918]LogActorFactory: Actor Factory created Building_WallSection
+[2018.09.10-20.33.28:353][ 50]LogActorFactory: Actor Factory created Building_WallSection
+[2018.09.10-20.33.28:587][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorPanel114)
+[2018.09.10-20.33.42:649][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-20.33.43:924][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-20.33.45:092][859]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/ArtTestLevelVersion25E3339754631BD9084FDF09B520AF936.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Maps/ArtTestLevelVersion2.umap'
+[2018.09.10-20.33.45:123][859]LogFileHelpers: Saving map 'ArtTestLevelVersion2' took 1.195
+[2018.09.10-20.33.45:857][942]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-20.34.00:007][148]UATHelper: Zip Project Task (Windows): Running AutomationTool...
+[2018.09.10-20.34.00:336][150]UATHelper: Zip Project Task (Windows): Parsing command line: ZipProjectUp -nocompile -nocompileeditor -project=C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/ -install=C:/Users/u0929850/Desktop/CFA.zip
+[2018.09.10-20.34.00:672][151]UATHelper: Zip Project Task (Windows): Started zipping project up
+[2018.09.10-20.34.00:672][151]UATHelper: Zip Project Task (Windows): Project directory: C:\Users\u0929850\Documents\GitHub\ContainmentFacilityArchitect\CFA
+[2018.09.10-20.34.00:672][151]UATHelper: Zip Project Task (Windows): Install directory: C:/Users/u0929850/Desktop/CFA.zip
+[2018.09.10-20.34.00:672][151]UATHelper: Zip Project Task (Windows): Packaging up the project...
+[2018.09.10-20.34.04:350][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-20.34.04:644][180]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Models/Building_WallWindowHole.Building_WallWindowHole
+[2018.09.10-20.34.13:521][762]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Models/Building_WallSection.Building_WallSection
+[2018.09.10-20.34.15:239][884]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-20.34.19:460][249]LogSlate: Window 'Building_WallSection' being destroyed
+[2018.09.10-20.34.19:463][249]LogSlate: Window 'Building_WallSection' being destroyed
+[2018.09.10-20.34.20:321][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-20.34.21:186][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-20.34.21:221][421]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/Building_WallWindowHoleD6C1F7664BF6C20DBE2C2E9FBDD15531.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallWindowHole.uasset'
+[2018.09.10-20.34.22:973][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-20.34.29:901][903]UATHelper: Zip Project Task (Windows): Running AutomationTool...
+[2018.09.10-20.34.30:251][906]UATHelper: Zip Project Task (Windows): Parsing command line: ZipProjectUp -nocompile -nocompileeditor -project=C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/ -install=C:/Users/u0929850/Desktop/CFA.zip
+[2018.09.10-20.34.30:251][906]UATHelper: Zip Project Task (Windows): Started zipping project up
+[2018.09.10-20.34.30:251][906]UATHelper: Zip Project Task (Windows): Project directory: C:\Users\u0929850\Documents\GitHub\ContainmentFacilityArchitect\CFA
+[2018.09.10-20.34.30:251][906]UATHelper: Zip Project Task (Windows): Install directory: C:/Users/u0929850/Desktop/CFA.zip
+[2018.09.10-20.34.30:251][906]UATHelper: Zip Project Task (Windows): Packaging up the project...
+[2018.09.10-20.34.51:778][227]UATHelper: Zip Project Task (Windows): Completed zipping project up
+[2018.09.10-20.34.51:778][227]UATHelper: Zip Project Task (Windows): BUILD SUCCESSFUL
+[2018.09.10-20.34.51:778][227]UATHelper: Zip Project Task (Windows): AutomationTool exiting with ExitCode=0 (Success)

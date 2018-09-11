@@ -1,0 +1,661 @@
+﻿Log file open, 09/10/18 15:33:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CFA
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.314109
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.093s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.10-21.33.40:181][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.10-21.33.40:181][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.10-21.33.40:199][  0]LogHAL: Display: Platform has ~ 32 GB [34297421824 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.10-21.33.40:199][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.10-21.33.40:199][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.10-21.33.40:202][  0]LogInit: Computer: eae-d-117
+[2018.09.10-21.33.40:202][  0]LogInit: User: u0929850
+[2018.09.10-21.33.40:202][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.10-21.33.40:202][  0]LogInit: High frequency timer resolution =3.320312 MHz
+[2018.09.10-21.33.40:202][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.09.10-21.33.40:202][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.10-21.33.40:202][  0]LogMemory: Process Physical Memory: 100.09 MB used, 100.09 MB peak
+[2018.09.10-21.33.40:202][  0]LogMemory: Process Virtual Memory: 90.98 MB used, 90.98 MB peak
+[2018.09.10-21.33.40:202][  0]LogMemory: Physical Memory: 9033.56 MB used,  23675.01 MB free, 32708.57 MB total
+[2018.09.10-21.33.40:202][  0]LogMemory: Virtual Memory: 4640.43 MB used,  23675.01 MB free, 134217728.00 MB total
+[2018.09.10-21.33.40:346][  0]LogInit: Using OS detected language (en-US).
+[2018.09.10-21.33.40:346][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.10-21.33.40:347][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.10-21.33.40:729][  0]LogStreaming: Display: Took  0.384s to InitEngineTextLocalization.
+[2018.09.10-21.33.40:729][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.10-21.33.40:790][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.10-21.33.40:790][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.10-21.33.42:582][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.10-21.33.42:582][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.10-21.33.42:654][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.09.10-21.33.42:654][  0]LogD3D11RHI:       8088/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.10-21.33.42:656][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.10-21.33.42:656][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.10-21.33.42:656][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.10-21.33.42:661][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.10-21.33.42:661][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.10-21.33.42:661][  0]LogWindows: EnumDisplayDevices:
+[2018.09.10-21.33.42:661][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.09.10-21.33.42:661][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.09.10-21.33.42:661][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.10-21.33.42:661][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.10-21.33.42:661][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.10-21.33.42:661][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.09.10-21.33.42:661][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2018.09.10-21.33.42:661][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2018.09.10-21.33.42:661][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.09.10-21.33.42:691][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.10-21.33.42:718][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.10-21.33.42:810][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Intermediate/Shaders/WorkingDirectory/13616/).
+[2018.09.10-21.33.42:810][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u0929850/AppData/Local/Temp/UnrealShaderWorkingDir/0583EDD846657F43A07B56BF0FD7DECB/'.
+[2018.09.10-21.33.43:156][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.10-21.33.43:176][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.10-21.33.43:197][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.10-21.33.43:217][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.10-21.33.43:241][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.10-21.33.43:261][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.10-21.33.43:282][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.10-21.33.43:303][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.10-21.33.43:320][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:406][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-21.33.43:416][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.10-21.33.43:506][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.10-21.33.43:506][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.10-21.33.43:535][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.10-21.33.43:535][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.10-21.33.43:554][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.10-21.33.43:574][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.10-21.33.43:593][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.10-21.33.43:619][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.10-21.33.43:636][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.10-21.33.43:636][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.10-21.33.43:878][  0]LogXGEController: Cleaning working directory: C:/Users/u0929850/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.10-21.33.43:878][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.10-21.33.43:878][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.10-21.33.43:878][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.10-21.33.45:379][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.10-21.33.45:429][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/u0929850/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.10-21.33.45:429][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u0929850/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.10-21.33.45:429][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.10-21.33.45:429][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.10-21.33.45:429][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.10-21.33.45:429][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.10-21.33.45:444][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.10-21.33.45:456][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u0929850/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.10-21.33.45:456][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.10-21.33.45:456][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.10-21.33.45:471][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.10-21.33.45:473][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.10-21.33.45:484][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.10-21.33.45:644][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.09.10-21.33.45:931][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.10-21.33.46:201][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.10-21.33.46:227][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.10-21.33.46:227][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.10-21.33.46:227][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.10-21.33.46:227][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.10-21.33.46:262][  0]LogNetVersion: CFA 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2740977465)
+[2018.09.10-21.33.47:116][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.090987 seconds
+[2018.09.10-21.33.47:121][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.10-21.33.47:121][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.10-21.33.47:121][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.10-21.33.49:515][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.10-21.33.49:539][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.10-21.33.49:877][  0]SourceControl: Source control is disabled
+[2018.09.10-21.33.51:040][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.10-21.33.51:166][  0]LogOcInput: OculusInput pre-init called
+[2018.09.10-21.33.51:288][  0]LogEngine: Initializing Engine...
+[2018.09.10-21.33.51:288][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.10-21.33.51:289][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.10-21.33.51:289][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.10-21.33.51:289][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.10-21.33.51:289][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.10-21.33.51:597][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.10-21.33.51:621][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.10-21.33.51:647][  0]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-21.33.51:670][  0]LogInit: FAudioDevice initialized.
+[2018.09.10-21.33.51:670][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.10-21.33.51:777][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/u0929850/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.10-21.33.51:787][  0]LogInit: Texture streaming: Enabled
+[2018.09.10-21.33.51:838][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.10-21.33.51:858][  0]LogInit: Transaction tracking system initialized
+[2018.09.10-21.33.51:929][  0]BlueprintLog: New page: Editor Load
+[2018.09.10-21.33.52:224][  0]LocalizationService: Localization service is disabled
+[2018.09.10-21.33.52:771][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.10-21.33.52:771][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.10-21.33.52:771][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.10-21.33.52:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.10-21.33.52:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.10-21.33.52:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.10-21.33.52:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.10-21.33.53:239][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/' took 0.02s
+[2018.09.10-21.33.53:240][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.10-21.33.53:244][  0]LightingResults: New page: Lighting Build
+[2018.09.10-21.33.53:246][  0]MapCheck: New page: Map Check
+[2018.09.10-21.33.53:246][  0]LightingResults: New page: Lighting Build
+[2018.09.10-21.33.53:567][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.09.10-21.33.53:567][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2018.09.10-21.33.53:567][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2018.09.10-21.33.53:581][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.09.10-21.33.53:581][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/TopDownBP/Maps/TopDownExampleMap.umap.
+[2018.09.10-21.33.53:582][  0]LoadErrors: Error: /Game/TopDownBP/Maps/TopDownExampleMap : Can't find file for asset. /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData
+[2018.09.10-21.33.53:583][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.09.10-21.33.53:583][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.09.10-21.33.53:583][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.09.10-21.33.53:583][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.09.10-21.33.53:625][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData'
+[2018.09.10-21.33.53:625][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2018.09.10-21.33.53:625][  0]LogLinker: Warning: Can't find file for asset '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData' while loading NULL.
+[2018.09.10-21.33.53:625][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2018.09.10-21.33.53:757][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.09.10-21.33.53:768][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.10-21.33.53:787][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.10-21.33.53:845][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.651ms to complete.
+[2018.09.10-21.33.53:845][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.605
+[2018.09.10-21.33.53:964][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-21.33.53:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-21.33.53:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-21.33.53:986][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-21.33.54:006][  0]LogCollectionManager: Loaded 0 collections in 0.001610 seconds
+[2018.09.10-21.33.54:049][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/Collections/' took 0.01s
+[2018.09.10-21.33.54:049][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Developers/u0929850/Collections/' took 0.01s
+[2018.09.10-21.33.54:049][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Collections/' took 0.01s
+[2018.09.10-21.33.54:049][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.10-21.33.54:061][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2572 classes and 603 folders.
+[2018.09.10-21.33.54:067][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.10-21.33.54:335][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.10-21.33.54:353][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.10-21.33.54:371][  0]LogSlate: Took 0.004341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.10-21.33.54:377][  0]LogSlate: Took 0.003959 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.10-21.33.54:385][  0]LogSlate: Took 0.003657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.10-21.33.54:488][  0]LogRenderer: Reallocating scene render targets to support 764x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.10-21.33.54:628][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.10-21.33.54:628][  0]LogLoad: (Engine Initialization) Total time: 17.08 seconds
+[2018.09.10-21.33.54:628][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.10-21.33.54:675][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.10-21.33.54:683][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-21.33.54:746][  1]LogAssetRegistry: Asset discovery search completed in 9.1259 seconds
+[2018.09.10-21.33.54:748][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.10-21.33.54:748][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2018.09.10-21.33.56:682][227]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-21.33.56:684][227]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-21.33.57:649][340]AssetReimport: New page: Outstanding source content changes 9:33:57 AM
+[2018.09.10-21.33.57:650][340]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallWindow.fbx)
+[2018.09.10-21.33.57:658][340]LogFbx: Loading FBX Scene from C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallWindow.fbx
+[2018.09.10-21.33.57:664][340]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.10-21.33.57:680][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.10-21.33.57:705][340]LogSlate: Took 0.003461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.10-21.33.59:941][340]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.10-21.34.00:229][340]LogStaticMesh: Building static mesh Building_WallWindow...
+[2018.09.10-21.34.00:266][340]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Models/Building_WallWindow.Building_WallWindow
+[2018.09.10-21.34.00:295][340]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.10-21.34.00:417][341]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/Building_WallWindow8D62C29741F18C93F849E09611D54E40.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Assets/Models/Building_WallWindow.uasset'
+[2018.09.10-21.34.00:577][342]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/' took 5.93s
+[2018.09.10-21.34.01:020][392]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.10-21.34.02:543][562]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.10-21.34.03:569][668]AssetReimport: Importing new asset /Game/Assets/Models/Building_WallWindow.
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 128X128)
+[2018.09.10-21.34.05:044][746]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2018.09.10-21.34.05:045][746]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 128X128)
+[2018.09.10-21.34.05:597][746]LogMaterial: Display: Missing cached shader map for material WallPreviewValid_mat, compiling. 
+[2018.09.10-21.34.05:647][746]LogMaterial: Display: Missing cached shader map for material WallPreviewInvalid_mat, compiling. 
+[2018.09.10-21.34.05:665][746]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.10-21.34.05:665][746]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.10-21.34.05:665][746]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.10-21.34.05:665][746]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.10-21.34.05:809][746]LogAIModule: Creating AISystem for world WallTest_map
+[2018.09.10-21.34.07:126][868]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.10-21.34.07:336][883]LogAssetEditorManager: Opening Asset editor for World /Game/WallTestRelated/WallTest_map.WallTest_map
+[2018.09.10-21.34.07:367][883]Cmd: MAP LOAD FILE="../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/WallTestRelated/WallTest_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.10-21.34.07:367][883]LightingResults: New page: Lighting Build
+[2018.09.10-21.34.07:368][883]LoadErrors: New page: Loading map: WallTest_map.umap
+[2018.09.10-21.34.07:369][883]MapCheck: New page: Map Check
+[2018.09.10-21.34.07:369][883]LightingResults: New page: Lighting Build
+[2018.09.10-21.34.15:997][883]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.10-21.34.15:997][883]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.10-21.34.15:997][883]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.10-21.34.15:997][883]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.10-21.34.16:003][883]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.10-21.34.16:170][883]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.10-21.34.16:246][883]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.426ms to complete.
+[2018.09.10-21.34.16:248][883]LogFileHelpers: Loading map 'WallTest_map' took 8.882
+[2018.09.10-21.34.17:272][985]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-21.34.17:286][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel' has LevelScriptBlueprint '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel.WallTest_map' with GeneratedClass '/Game/WallTestRelated/WallTest_map.WallTest_map_C' with ClassGeneratedBy '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel.WallTest_map'
+[2018.09.10-21.34.17:286][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-21.34.17:298][985]PIE: New page: PIE session: WallTest_map (Sep 10, 2018, 9:34:17 AM)
+[2018.09.10-21.34.17:298][985]LogPlayLevel: Creating play world package: /Game/WallTestRelated/UEDPIE_0_WallTest_map
+[2018.09.10-21.34.17:375][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077230s)
+[2018.09.10-21.34.17:376][985]LogAIModule: Creating AISystem for world WallTest_map
+[2018.09.10-21.34.17:376][985]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2018.09.10-21.34.17:376][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WallTestRelated/WallTest_map.WallTest_map to /Game/WallTestRelated/UEDPIE_0_WallTest_map.WallTest_map (0.078115s)
+[2018.09.10-21.34.17:407][985]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.10-21.34.17:414][985]LogInit: FAudioDevice initialized.
+[2018.09.10-21.34.17:455][985]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.09.10-21.34.17:474][985]LogWorld: Bringing World /Game/WallTestRelated/UEDPIE_0_WallTest_map.WallTest_map up for play (max tick rate 0) at 2018.09.10-15.34.17
+[2018.09.10-21.34.17:475][985]LogWorld: Bringing up level for play took: 0.018709
+[2018.09.10-21.34.17:492][985]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.10-21.34.17:495][985]PIE: Play in editor start time for /Game/WallTestRelated/UEDPIE_0_WallTest_map -0.406
+[2018.09.10-21.34.17:496][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel' has LevelScriptBlueprint '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel.WallTest_map' with GeneratedClass '/Game/WallTestRelated/WallTest_map.WallTest_map_C' with ClassGeneratedBy '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel.WallTest_map'
+[2018.09.10-21.34.22:596][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-21.34.23:863][737]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel' has LevelScriptBlueprint '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel.WallTest_map' with GeneratedClass '/Game/WallTestRelated/WallTest_map.WallTest_map_C' with ClassGeneratedBy '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel.WallTest_map'
+[2018.09.10-21.34.23:863][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-21.34.23:900][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-21.34.23:901][737]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel' has LevelScriptBlueprint '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel.WallTest_map' with GeneratedClass '/Game/WallTestRelated/WallTest_map.WallTest_map_C' with ClassGeneratedBy '/Game/WallTestRelated/WallTest_map.WallTest_map:PersistentLevel.WallTest_map'
+[2018.09.10-21.34.23:921][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-21.34.23:975][739]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.10-21.34.28:911][185]LogAIModule: Creating AISystem for world WallTest_map1
+[2018.09.10-21.34.30:226][185]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Saved/WallTest_map1B5AB24434E81B51B68AE49B3B0212C02.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/WallTestRelated/WallTest_map1.umap'
+[2018.09.10-21.34.30:634][185]LogFileHelpers: Saving map 'WallTest_map1' took 1.593
+[2018.09.10-21.34.37:378][902]LogMetaData: Removing '/Game/Maps/WallTest_map1.SKEL_WallTest_map1_C' ref from Metadata '/Game/WallTestRelated/WallTest_map1.PackageMetaData'
+[2018.09.10-21.34.37:378][902]LogMetaData: Removing '/Game/Maps/WallTest_map1.WallTest_map1_C' ref from Metadata '/Game/WallTestRelated/WallTest_map1.PackageMetaData'
+[2018.09.10-21.34.46:720][902]LogSlate: Window 'Message' being destroyed
+[2018.09.10-21.34.46:750][902]EditorErrors: New page: Save Output
+[2018.09.10-21.34.46:750][902]EditorErrors: Warning: Can't save ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Maps/WallTest_map1.umap: Graph is linked to external private object Unknown
+[2018.09.10-21.34.46:763][902]LogFileHelpers: Saving map 'WallTest_map1' took 9.367
+[2018.09.10-21.34.54:013][902]LogSlate: Window 'Message' being destroyed
+[2018.09.10-21.34.55:085][902]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2018.09.10-21.34.57:009][ 58]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-21.34.57:012][ 58]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-21.35.00:416][462]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/WallTest_map1.WallTest_map1
+[2018.09.10-21.35.01:676][462]LogSlate: Window 'Save Content' being destroyed
+[2018.09.10-21.35.01:680][462]Cmd: MAP LOAD FILE="../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Maps/WallTest_map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.10-21.35.01:681][462]LightingResults: New page: Lighting Build
+[2018.09.10-21.35.01:682][462]LoadErrors: New page: Loading map: WallTest_map1.umap
+[2018.09.10-21.35.01:687][462]MapCheck: New page: Map Check
+[2018.09.10-21.35.01:687][462]LightingResults: New page: Lighting Build
+[2018.09.10-21.35.01:798][462]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.10-21.35.01:954][462]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.10-21.35.02:030][462]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.706ms to complete.
+[2018.09.10-21.35.02:031][462]LogFileHelpers: Loading map 'WallTest_map1' took 0.352
+[2018.09.10-21.35.09:501][242]LogMetaData: Removing '/Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3_C' ref from Metadata '/Game/Maps/WallTest_map1.PackageMetaData'
+[2018.09.10-21.35.09:501][242]LogMetaData: Removing '/Game/Maps/ArtTestLevelVersion3.SKEL_ArtTestLevelVersion3_C' ref from Metadata '/Game/Maps/WallTest_map1.PackageMetaData'
+[2018.09.10-21.35.17:142][242]LogSlate: Window 'Message' being destroyed
+[2018.09.10-21.35.17:151][242]EditorErrors: New page: Save Output
+[2018.09.10-21.35.17:151][242]EditorErrors: Warning: Can't save ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Maps/ArtTestLevelVersion3.umap: Graph is linked to external private object Unknown
+[2018.09.10-21.35.17:163][242]LogFileHelpers: Saving map 'ArtTestLevelVersion3' took 7.647
+[2018.09.10-21.35.19:661][242]LogSlate: Window 'Message' being destroyed
+[2018.09.10-21.35.21:717][242]LogSlate: Window 'Message' being destroyed
+[2018.09.10-21.35.21:721][242]LogSavePackage: Warning: 
+Referencers of LandscapeMaterialInstanceConstant /Game/WallTestRelated/WallTest_map1.LandscapeMaterialInstanceConstant_63:
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	Landscape /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_0 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_1 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_2 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_3 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_4 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_5 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_6 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_7 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_8 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_9 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_10 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_11 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_12 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_13 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_14 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_15 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_16 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_17 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_18 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_19 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_20 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_21 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_22 (1 refs)
+[2018.09.10-21.35.21:755][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_23 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_24 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_25 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_26 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_27 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_28 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_29 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_30 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_31 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_32 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_33 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_34 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_35 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_36 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_37 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_38 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_39 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_40 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_41 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_42 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_43 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_44 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_45 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_46 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_47 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_48 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_49 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_50 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_51 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_52 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_53 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_54 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_55 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_56 (1 refs)
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:756][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_57 (1 refs)
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_58 (1 refs)
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_59 (1 refs)
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_60 (1 refs)
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_61 (1 refs)
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_62 (1 refs)
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 	LandscapeComponent /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3:PersistentLevel.Landscape2.LandscapeComponent_63 (1 refs)
+[2018.09.10-21.35.21:757][242]LogSavePackage: Warning: 		0) ObjectProperty /Script/Landscape.LandscapeComponent:MobileCombinationMaterialInstance
+[2018.09.10-21.35.21:760][242]EditorErrors: New page: Save Output
+[2018.09.10-21.35.21:760][242]EditorErrors: Warning: Can't save ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Maps/ArtTestLevelVersion3.umap: Graph is linked to external private object LandscapeMaterialInstanceConstant /Game/WallTestRelated/WallTest_map1.LandscapeMaterialInstanceConstant_63 (MobileCombinationMaterialInstance)
+[2018.09.10-21.35.21:763][242]LogFileHelpers: Saving map 'ArtTestLevelVersion3' took 2.100
+[2018.09.10-21.35.23:186][242]LogSlate: Window 'Message' being destroyed
+[2018.09.10-21.35.24:373][242]LogSlate: Window 'Message' being destroyed
+[2018.09.10-21.35.24:379][242]EditorErrors: New page: Save Output
+[2018.09.10-21.35.24:380][242]EditorErrors: Warning: Can't save ../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Maps/ArtTestLevelVersion3.umap: Graph is linked to external private object Unknown
+[2018.09.10-21.35.24:383][242]LogFileHelpers: Saving map 'ArtTestLevelVersion3' took 1.194
+[2018.09.10-21.35.25:094][242]LogSlate: Window 'Message' being destroyed
+[2018.09.10-21.35.26:863][242]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2018.09.10-21.35.31:433][769]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-21.35.31:436][769]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-21.35.44:798][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-21.36.00:702][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-21.36.33:298][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-21.36.42:901][984]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3
+[2018.09.10-21.36.47:198][984]LogSlate: Window 'Save Content' being destroyed
+[2018.09.10-21.36.58:970][385]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/ArtTestLevelVersion3.ArtTestLevelVersion3
+[2018.09.10-21.37.00:451][385]LogSlate: Window 'Save Content' being destroyed
+[2018.09.10-21.37.02:029][385]LogSlate: Window 'Message' being destroyed
+[2018.09.10-21.37.02:032][385]Cmd: MAP LOAD FILE="../../../../../../Users/u0929850/Documents/GitHub/ContainmentFacilityArchitect/CFA/Content/Maps/ArtTestLevelVersion3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.10-21.37.02:033][385]LightingResults: New page: Lighting Build
+[2018.09.10-21.37.02:034][385]LoadErrors: New page: Loading map: ArtTestLevelVersion3.umap
+[2018.09.10-21.37.02:042][385]MapCheck: New page: Map Check
+[2018.09.10-21.37.02:042][385]LightingResults: New page: Lighting Build
+[2018.09.10-21.37.02:066][385]LogLinker: Warning: Can't find file '/Game/Maps/ArtTestLevelVersion3'
+[2018.09.10-21.37.03:432][385]LogSlate: Window 'Message' being destroyed
+[2018.09.10-21.37.03:435][385]LightingResults: New page: Lighting Build
+[2018.09.10-21.37.03:437][385]LogAIModule: Creating AISystem for world Untitled
+[2018.09.10-21.37.03:440][385]LoadErrors: New page: New Map
